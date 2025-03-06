@@ -1,0 +1,2 @@
+# RRScraper
+Scraper royalroad.com
