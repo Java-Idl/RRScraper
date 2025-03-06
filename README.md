@@ -1,2 +1,2 @@
 # RRScraper
-Scraper royalroad.com
+Scrap royalroad.com
